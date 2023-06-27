@@ -4,6 +4,7 @@ span.inline {
     background-color: yellow;
     width: 100px;
     height: 100px;
+    padding: 5px;
     margin-top: 50px; 
 }
 
@@ -13,6 +14,7 @@ span.inline-block {
     background-color: yellow;
     width: 100px;
     height: 100px;
+    padding: 5px;
     /* margin-top: 50px;  */
 }
 
@@ -22,5 +24,6 @@ span.block {
     background-color: yellow;
     width: 100px;
     height: 100px;
+    padding: 5px;
     /* margin-top: 50px;  */
 }
